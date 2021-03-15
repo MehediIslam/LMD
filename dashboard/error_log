@@ -1,0 +1,48 @@
+[10-Feb-2020 16:15:54 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/whitesil/public_html/lmd/dashboard/dash_patient.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/whitesil/public_html/lmd/dashboard/dash_patient.php on line 22
+[24-Jun-2020 14:47:47 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home2/whitesil/public_html/lmd/dashboard/dash_patient_alldoctor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home2/whitesil/public_html/lmd/dashboard/dash_patient_alldoctor.php on line 22
+[27-Jun-2020 22:02:14 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home2/whitesil/public_html/lmd/dashboard/dash_pharma_request.php:22
+Stack trace:
+#0 {main}
+  thrown in /home2/whitesil/public_html/lmd/dashboard/dash_pharma_request.php on line 22
+[17-Jul-2020 17:27:44 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home2/whitesil/public_html/lmd/dashboard/dash_patient.php:22
+Stack trace:
+#0 {main}
+  thrown in /home2/whitesil/public_html/lmd/dashboard/dash_patient.php on line 22
+[17-Jul-2020 17:28:05 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home2/whitesil/public_html/lmd/dashboard/dash_doctor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home2/whitesil/public_html/lmd/dashboard/dash_doctor.php on line 22
+[17-Jul-2020 17:54:10 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home2/whitesil/public_html/lmd/dashboard/dash_pharma.php:22
+Stack trace:
+#0 {main}
+  thrown in /home2/whitesil/public_html/lmd/dashboard/dash_pharma.php on line 22
+[17-Jul-2020 17:55:16 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home2/whitesil/public_html/lmd/dashboard/dash_pharma.php:22
+Stack trace:
+#0 {main}
+  thrown in /home2/whitesil/public_html/lmd/dashboard/dash_pharma.php on line 22
+[17-Jul-2020 17:56:47 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home2/whitesil/public_html/lmd/dashboard/dash_patient.php:22
+Stack trace:
+#0 {main}
+  thrown in /home2/whitesil/public_html/lmd/dashboard/dash_patient.php on line 22
+[17-Jul-2020 17:58:59 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home2/whitesil/public_html/lmd/dashboard/dash_patient_alldoctor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home2/whitesil/public_html/lmd/dashboard/dash_patient_alldoctor.php on line 22
+[17-Jul-2020 17:59:43 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home2/whitesil/public_html/lmd/dashboard/dash_doctor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home2/whitesil/public_html/lmd/dashboard/dash_doctor.php on line 22
+[17-Jul-2020 18:06:44 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home2/whitesil/public_html/lmd/dashboard/dash_doctor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home2/whitesil/public_html/lmd/dashboard/dash_doctor.php on line 22
+[17-Jul-2020 18:12:40 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home2/whitesil/public_html/lmd/dashboard/dash_pharma.php:22
+Stack trace:
+#0 {main}
+  thrown in /home2/whitesil/public_html/lmd/dashboard/dash_pharma.php on line 22
